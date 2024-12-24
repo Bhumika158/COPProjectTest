@@ -1,8 +1,16 @@
 {
-    "API Whitelisting":[
+    "API Whitelisting": [
         {
-            "Name":"test",
+            "Name": "test",
             "VendorName": "test"
+        },
+        {
+            "Name": "/idad/saltremediation/system/systemnotification/v1",
+            "VendorName": "PAZE - IDAD"
+        },
+        {
+            "Name": "/idad/saltremediation/system/getIdentityKeys/v1",
+            "VendorName": "PAZE - IDAD"
         }
     ]
 }
