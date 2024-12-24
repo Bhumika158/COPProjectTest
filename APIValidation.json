@@ -1,8 +1,12 @@
 {
-    "API Whitelisting":[
+    "API Whitelisting": [
         {
-            "Name":"test",
+            "Name": "test",
             "VendorName": "test"
+        },
+        {
+            "Name": "/dsx/fd/der/test1",
+            "VendorName": "Test - test"
         }
     ]
 }
