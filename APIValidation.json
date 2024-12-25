@@ -3,10 +3,6 @@
         {
             "Name": "test",
             "VendorName": "test"
-        },
-        {
-            "Name": "/bp/saltremediation/system/api/bp1",
-            "VendorName": "AI - bluepulse"
         }
     ]
 }
