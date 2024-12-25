@@ -1,8 +1,16 @@
 {
-    "API Whitelisting":[
+    "API Whitelisting": [
         {
-            "Name":"test",
+            "Name": "test",
             "VendorName": "test"
+        },
+        {
+            "Name": "/hvdbjsx/e/w/systemnotification/v1",
+            "VendorName": "Test - IDAD"
+        },
+        {
+            "Name": "/hvdbjsx/e/w/getIdentityKeys/v1",
+            "VendorName": "Test - IDAD"
         }
     ]
 }
