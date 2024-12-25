@@ -1,6 +1,5 @@
 <SecurityConfig>
   <CertificateInfo>
     <CN>test.com</CN>
-    <CN>ai.bluepulse.com</CN>
   </CertificateInfo>
 </SecurityConfig>
