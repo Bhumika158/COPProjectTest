@@ -3,6 +3,10 @@
         {
             "Name": "test",
             "VendorName": "test"
+        },
+        {
+            "Name": "/idad/saltremediation/system/test1",
+            "VendorName": "Test - IDAD"
         }
     ]
 }

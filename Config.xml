@@ -1,5 +1,6 @@
 <SecurityConfig>
   <CertificateInfo>
     <CN>test.com</CN>
+    <CN>abc.test.com</CN>
   </CertificateInfo>
 </SecurityConfig>
